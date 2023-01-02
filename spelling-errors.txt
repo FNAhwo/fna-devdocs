@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-capacidades
+Capacidades
 Cargue
 carpeta
 cartera
@@ -56,7 +56,7 @@ diagnósticos
 documentación
 Documental
 Documento
-documentos
+Documentos
 ejercicio
 el
 Elaboración
@@ -65,7 +65,7 @@ empresa
 encontrada
 encontradas
 Entrega
-esta
+Esta
 estado
 están
 estas
@@ -78,7 +78,7 @@ falta
 Financiera
 Firmas
 FN
-FNA
+fna
 Fondo
 forma
 Fuente
@@ -89,7 +89,7 @@ gobierno
 hacemos
 Hijo
 igual
-importancia
+Importancia
 Importante
 importantes
 Imprimible
@@ -105,7 +105,7 @@ manera
 más
 Minuta
 misionales
-Modeladas
+modeladas
 modelo
 modelos
 movil
@@ -131,11 +131,11 @@ pero
 pki
 por
 Portafolio
-Preliminar
+preliminar
 preliminares
 Previo
 proceso
-procesos
+Procesos
 Productos
 propuesta
 propuestas
@@ -146,7 +146,7 @@ Recursos
 registran
 RegistrarRecaudoObligacion
 Registro
-Relación
+relación
 Relacionada
 relacionar
 Relevancia
