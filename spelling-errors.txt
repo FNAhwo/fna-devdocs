@@ -56,7 +56,7 @@ diagnósticos
 documentación
 Documental
 Documento
-Documentos
+documentos
 ejercicio
 el
 Elaboración
@@ -65,7 +65,7 @@ empresa
 encontrada
 encontradas
 Entrega
-Esta
+esta
 estado
 están
 estas
@@ -78,7 +78,7 @@ falta
 Financiera
 Firmas
 FN
-fna
+FNA
 Fondo
 forma
 Fuente
@@ -89,7 +89,7 @@ gobierno
 hacemos
 Hijo
 igual
-Importancia
+importancia
 Importante
 importantes
 Imprimible
@@ -111,7 +111,7 @@ modelos
 movil
 naranja
 necesidades
-Negocio
+negocio
 negocios
 nivel
 Nombre
@@ -131,7 +131,7 @@ pero
 pki
 por
 Portafolio
-preliminar
+Preliminar
 preliminares
 Previo
 proceso
@@ -162,7 +162,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-Servicios
+servicios
 sí
 siguientes
 sirve
