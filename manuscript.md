@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-02" />
   <meta name="citation_publication_date" content="2023-01-02" />
   <meta property="article:published_time" content="2023-01-02" />
-  <meta name="dc.modified" content="2023-01-02T05:15:25+00:00" />
-  <meta property="article:modified_time" content="2023-01-02T05:15:25+00:00" />
+  <meta name="dc.modified" content="2023-01-02T05:56:20+00:00" />
+  <meta property="article:modified_time" content="2023-01-02T05:56:20+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs/v/5edfc4787b1d05dd341feab74f195106ec581c85/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs/v/5edfc4787b1d05dd341feab74f195106ec581c85/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs/v/5edfc4787b1d05dd341feab74f195106ec581c85/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs/v/9724a996883b163920a019914c6ae02d329d0af4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs/v/9724a996883b163920a019914c6ae02d329d0af4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs/v/9724a996883b163920a019914c6ae02d329d0af4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,60 +61,6 @@ manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
 manubot-clear-requests-cache: false
 ...
-
-
-
-
-
-
-<small><em>
-This manuscript
-([permalink](https://hwong23.github.io/fna-devdocs/v/5edfc4787b1d05dd341feab74f195106ec581c85/))
-was automatically generated
-from [hwong23/fna-devdocs@5edfc47](https://github.com/hwong23/fna-devdocs/tree/5edfc4787b1d05dd341feab74f195106ec581c85)
-on January 2, 2023.
-</em></small>
-
-
-
-## Authors
-
-
-
-+ **John Doe**
-  <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    <br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
-  </small>
-
-
-::: {#correspondence}
-✉ — Correspondence possible via [GitHub Issues](https://github.com/hwong23/fna-devdocs/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
-
-:::
-
 
 |Tema|Catálogo de Servicios SOA: **Servicios SOA relevantes al diagnóstico**
 |----|-------------------------------------------------|

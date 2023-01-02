@@ -10,7 +10,7 @@ Analizados
 Anexo
 Aplicacion
 Aplicación
-Aplicaciones
+aplicaciones
 archimate
 archixml
 área
@@ -32,7 +32,7 @@ cesantias
 clave
 Cliente
 clientes
-COBIS
+cobis
 Comercial
 conocer
 Consecución
@@ -78,7 +78,7 @@ falta
 Financiera
 Firmas
 FN
-FNA
+fna
 fondo
 forma
 Fuente
@@ -89,7 +89,7 @@ gobierno
 hacemos
 Hijo
 igual
-Importancia
+importancia
 Importante
 importantes
 Imprimible
@@ -98,8 +98,6 @@ información
 insumo
 intersección
 ivr
-janeroe
-johndoe
 Legalización
 linea
 lista
@@ -107,13 +105,13 @@ manera
 más
 Minuta
 misionales
-Modeladas
+modeladas
 modelo
 modelos
 movil
 naranja
 necesidades
-negocio
+Negocio
 negocios
 nivel
 Nombre
@@ -131,9 +129,9 @@ Parte
 partes
 pero
 pki
-Por
+por
 Portafolio
-preliminar
+Preliminar
 preliminares
 Previo
 proceso
@@ -148,7 +146,7 @@ Recursos
 registran
 RegistrarRecaudoObligacion
 Registro
-Relación
+relación
 Relacionada
 relacionar
 Relevancia
@@ -190,5 +188,3 @@ Vicepresidencia
 Vínculos
 voluntario
 workmanager
-XXXX
-XXXXXXXX
