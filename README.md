@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Automated enterpise manuscripts on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
