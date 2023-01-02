@@ -6,7 +6,7 @@ ahorro
 alguna
 algunas
 Análisis
-Analizados
+analizados
 Anexo
 Aplicacion
 Aplicación
@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-Capacidades
+capacidades
 Cargue
 carpeta
 cartera
@@ -56,7 +56,7 @@ diagnósticos
 documentación
 Documental
 Documento
-Documentos
+documentos
 ejercicio
 el
 Elaboración
@@ -78,7 +78,7 @@ falta
 Financiera
 Firmas
 FN
-FNA
+fna
 fondo
 forma
 Fuente
@@ -107,11 +107,11 @@ Minuta
 misionales
 modeladas
 modelo
-Modelos
+modelos
 movil
 naranja
 necesidades
-negocio
+Negocio
 negocios
 nivel
 Nombre
@@ -129,9 +129,9 @@ Parte
 partes
 pero
 pki
-Por
+por
 Portafolio
-Preliminar
+preliminar
 preliminares
 Previo
 proceso
@@ -146,7 +146,7 @@ Recursos
 registran
 RegistrarRecaudoObligacion
 Registro
-relación
+Relación
 Relacionada
 relacionar
 Relevancia
@@ -162,7 +162,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-Servicios
+servicios
 sí
 siguientes
 sirve
