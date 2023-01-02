@@ -6,7 +6,7 @@ ahorro
 alguna
 algunas
 Análisis
-Analizados
+analizados
 Anexo
 Aplicacion
 Aplicación
@@ -56,12 +56,12 @@ diagnósticos
 documentación
 Documental
 Documento
-documentos
+Documentos
 ejercicio
 el
 Elaboración
 elementos
-empresa
+Empresa
 encontrada
 encontradas
 Entrega
@@ -105,7 +105,7 @@ manera
 más
 Minuta
 misionales
-modeladas
+Modeladas
 modelo
 modelos
 movil
@@ -121,7 +121,7 @@ operación
 Operaciones
 Origen
 otra
-Otras
+otras
 otros
 pagos
 Palabras
@@ -131,11 +131,11 @@ pero
 pki
 por
 Portafolio
-Preliminar
+preliminar
 preliminares
 Previo
 proceso
-Procesos
+procesos
 Productos
 propuesta
 propuestas
