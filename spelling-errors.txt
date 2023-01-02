@@ -10,7 +10,7 @@ Analizados
 Anexo
 Aplicacion
 Aplicación
-aplicaciones
+Aplicaciones
 archimate
 archixml
 área
@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-Capacidades
+capacidades
 Cargue
 carpeta
 cartera
@@ -32,7 +32,7 @@ cesantias
 clave
 Cliente
 clientes
-cobis
+COBIS
 Comercial
 conocer
 Consecución
@@ -56,7 +56,7 @@ diagnósticos
 documentación
 Documental
 Documento
-Documentos
+documentos
 ejercicio
 el
 Elaboración
@@ -65,7 +65,7 @@ empresa
 encontrada
 encontradas
 Entrega
-Esta
+esta
 estado
 están
 estas
@@ -78,8 +78,8 @@ falta
 Financiera
 Firmas
 FN
-fna
-Fondo
+FNA
+fondo
 forma
 Fuente
 futuros
@@ -89,7 +89,7 @@ gobierno
 hacemos
 Hijo
 igual
-importancia
+Importancia
 Importante
 importantes
 Imprimible
@@ -107,13 +107,13 @@ manera
 más
 Minuta
 misionales
-modeladas
+Modeladas
 modelo
-Modelos
+modelos
 movil
 naranja
 necesidades
-Negocio
+negocio
 negocios
 nivel
 Nombre
@@ -123,7 +123,7 @@ operación
 Operaciones
 Origen
 otra
-otras
+Otras
 otros
 pagos
 Palabras
@@ -131,13 +131,13 @@ Parte
 partes
 pero
 pki
-por
+Por
 Portafolio
-Preliminar
+preliminar
 preliminares
 Previo
 proceso
-procesos
+Procesos
 Productos
 propuesta
 propuestas
@@ -164,7 +164,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-servicios
+Servicios
 sí
 siguientes
 sirve
