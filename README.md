@@ -15,3 +15,4 @@ This directory contains the following files:
 
 Pandoc consumes `manuscript.md` and `references.json` to create the formatted manuscript, which is exported to `manuscript.html`, `manuscript.pdf`, and optionally `manuscript.docx`.
 
+EOF
