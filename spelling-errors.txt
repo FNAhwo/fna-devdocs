@@ -6,11 +6,11 @@ ahorro
 alguna
 algunas
 Análisis
-analizados
+Analizados
 Anexo
 Aplicacion
 Aplicación
-Aplicaciones
+aplicaciones
 archimate
 archixml
 área
@@ -78,7 +78,7 @@ falta
 Financiera
 Firmas
 FN
-FNA
+fna
 fondo
 forma
 Fuente
@@ -111,7 +111,7 @@ modelos
 movil
 naranja
 necesidades
-Negocio
+negocio
 negocios
 nivel
 Nombre
@@ -129,13 +129,13 @@ Parte
 partes
 pero
 pki
-por
+Por
 Portafolio
 preliminar
 preliminares
 Previo
 proceso
-procesos
+Procesos
 Productos
 propuesta
 propuestas
