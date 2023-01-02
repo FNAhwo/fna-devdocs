@@ -6,7 +6,7 @@ ahorro
 alguna
 algunas
 Análisis
-Analizados
+analizados
 Anexo
 Aplicacion
 Aplicación
@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-Capacidades
+capacidades
 Cargue
 carpeta
 cartera
@@ -65,7 +65,7 @@ empresa
 encontrada
 encontradas
 Entrega
-esta
+Esta
 estado
 están
 estas
@@ -78,8 +78,8 @@ falta
 Financiera
 Firmas
 FN
-FNA
-Fondo
+fna
+fondo
 forma
 Fuente
 futuros
@@ -107,7 +107,7 @@ Minuta
 misionales
 modeladas
 modelo
-modelos
+Modelos
 movil
 naranja
 necesidades
@@ -121,7 +121,7 @@ operación
 Operaciones
 Origen
 otra
-Otras
+otras
 otros
 pagos
 Palabras
@@ -131,7 +131,7 @@ pero
 pki
 por
 Portafolio
-Preliminar
+preliminar
 preliminares
 Previo
 proceso
@@ -162,7 +162,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-Servicios
+servicios
 sí
 siguientes
 sirve
