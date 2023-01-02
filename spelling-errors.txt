@@ -10,7 +10,7 @@ Analizados
 Anexo
 Aplicacion
 Aplicación
-aplicaciones
+Aplicaciones
 archimate
 archixml
 área
@@ -56,7 +56,7 @@ diagnósticos
 documentación
 Documental
 Documento
-documentos
+Documentos
 ejercicio
 el
 Elaboración
@@ -65,7 +65,7 @@ empresa
 encontrada
 encontradas
 Entrega
-Esta
+esta
 estado
 están
 estas
@@ -78,8 +78,8 @@ falta
 Financiera
 Firmas
 FN
-fna
-fondo
+FNA
+Fondo
 forma
 Fuente
 futuros
@@ -105,13 +105,13 @@ manera
 más
 Minuta
 misionales
-Modeladas
+modeladas
 modelo
 modelos
 movil
 naranja
 necesidades
-negocio
+Negocio
 negocios
 nivel
 Nombre
@@ -129,9 +129,9 @@ Parte
 partes
 pero
 pki
-Por
+por
 Portafolio
-preliminar
+Preliminar
 preliminares
 Previo
 proceso
@@ -146,7 +146,7 @@ Recursos
 registran
 RegistrarRecaudoObligacion
 Registro
-Relación
+relación
 Relacionada
 relacionar
 Relevancia
@@ -162,7 +162,7 @@ Seguimiento
 según
 seleccionados
 Servicio
-servicios
+Servicios
 sí
 siguientes
 sirve
