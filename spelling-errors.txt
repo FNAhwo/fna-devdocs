@@ -23,7 +23,7 @@ Autor
 Avalúo
 banca
 capacidad
-capacidades
+Capacidades
 Cargue
 carpeta
 cartera
@@ -61,11 +61,11 @@ ejercicio
 el
 Elaboración
 elementos
-Empresa
+empresa
 encontrada
 encontradas
 Entrega
-esta
+Esta
 estado
 están
 estas
@@ -78,7 +78,7 @@ falta
 Financiera
 Firmas
 FN
-fna
+FNA
 fondo
 forma
 Fuente
@@ -105,7 +105,7 @@ manera
 más
 Minuta
 misionales
-modeladas
+Modeladas
 modelo
 modelos
 movil
@@ -121,7 +121,7 @@ operación
 Operaciones
 Origen
 otra
-otras
+Otras
 otros
 pagos
 Palabras
