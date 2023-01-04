@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2023-01-02'
+date-meta: '2023-01-04'
 author-meta:
 - John Doe
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA FNA (181-2020)" />
   <meta property="og:title" content="Diagnóstico SOA FNA (181-2020)" />
   <meta property="twitter:title" content="Diagnóstico SOA FNA (181-2020)" />
-  <meta name="dc.date" content="2023-01-02" />
-  <meta name="citation_publication_date" content="2023-01-02" />
-  <meta property="article:published_time" content="2023-01-02" />
-  <meta name="dc.modified" content="2023-01-02T18:25:01+00:00" />
-  <meta property="article:modified_time" content="2023-01-02T18:25:01+00:00" />
+  <meta name="dc.date" content="2023-01-04" />
+  <meta name="citation_publication_date" content="2023-01-04" />
+  <meta property="article:published_time" content="2023-01-04" />
+  <meta name="dc.modified" content="2023-01-04T21:24:02+00:00" />
+  <meta property="article:modified_time" content="2023-01-04T21:24:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs/v/e3ecc65af397e2762faa1ca7fc5b5f04a3c6d824/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs/v/e3ecc65af397e2762faa1ca7fc5b5f04a3c6d824/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs/v/e3ecc65af397e2762faa1ca7fc5b5f04a3c6d824/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs/v/c86bb4b68c311eae74d11e3e223ed19e7ec2df44/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs/v/c86bb4b68c311eae74d11e3e223ed19e7ec2df44/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs/v/c86bb4b68c311eae74d11e3e223ed19e7ec2df44/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,6 +61,45 @@ manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
 manubot-clear-requests-cache: false
 ...
+
+
+
+
+
+
+<small><em>
+test edit - hello world. This manuscript
+([permalink](https://hwong23.github.io/fna-devdocs/v/c86bb4b68c311eae74d11e3e223ed19e7ec2df44/))
+was automatically generated
+from [hwong23/fna-devdocs@c86bb4b](https://github.com/hwong23/fna-devdocs/tree/c86bb4b68c311eae74d11e3e223ed19e7ec2df44)
+on 2023-01-04.
+</em></small>
+
+## Authors
+
+
+
++ **John Doe**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [johndoe](https://github.com/johndoe)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [johndoe](https://twitter.com/johndoe)<br>
+  <small>
+     Department of Something, University of Whatever
+     · Funded by Grant XXXXXXXX
+  </small>
+
++ **Jane Roe**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
 
 |Tema|Catálogo de Servicios SOA: **Servicios SOA relevantes al diagnóstico**
 |----|-------------------------------------------------|
